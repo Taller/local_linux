@@ -1,3 +1,4 @@
+# WSL2 work laptop
 sudo service ssh restart
 sudo service postgresql restart
 $HADOOP_HOME/sbin/start-all.sh
